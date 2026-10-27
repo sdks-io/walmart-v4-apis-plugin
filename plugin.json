@@ -1,0 +1,16 @@
+{
+  "name": "walmart-v4-apis",
+  "displayName": "walmart-v4-apis",
+  "version": "0.0.1",
+  "description": "Integrate and consume the APIMatic-generated Walmart APIs SDK — bundled skills for C#/.NET, Python, TypeScript.",
+  "author": {
+    "name": "Muhammad Rafay",
+    "email": "muhammad.rafay@apimatic.io"
+  },
+  "license": "MIT",
+  "skills": [
+    "./skills/dotnet",
+    "./skills/python",
+    "./skills/typescript"
+  ]
+}
